@@ -2,6 +2,8 @@ module github.com/yourusername/validator
 
 go 1.21
 
+// Personal fork of go-playground/validator
+// Keeping dependencies pinned to known-good versions for my projects.
 require (
 	github.com/gabriel-vasile/mimetype v1.4.3
 	github.com/go-playground/locales v0.14.1
